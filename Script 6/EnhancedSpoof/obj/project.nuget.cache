@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vUijrwppCSTHbmbeGvZ2cj23hPsYa1l8EqS030NoP2z6KYVy5hHCtYnyac6Hd5TuXy6MxM0y8nW0NQDzycdLFA==",
+  "success": true,
+  "projectFilePath": "G:\\My Drive\\Books\\Devwebtuts\\CsharpHack\\CodeExamples\\Script 6\\EnhancedSpoof\\BasicSpoof.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcherri\\.nuget\\packages\\packetdotnet\\1.4.7\\packetdotnet.1.4.7.nupkg.sha512",
+    "C:\\Users\\jcherri\\.nuget\\packages\\sharppcap\\6.2.5\\sharppcap.6.2.5.nupkg.sha512",
+    "C:\\Users\\jcherri\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jcherri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jcherri\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

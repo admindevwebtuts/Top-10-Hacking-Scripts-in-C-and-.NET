@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsrohq//N+wv9rfaXBjmTXAsZNw0wBR5x850wysdepw1s58iK2SLIhcmJVqtdLizxoRofv0byTReWdLHJUenag==",
+  "success": true,
+  "projectFilePath": "G:\\My Drive\\Books\\Devwebtuts\\CsharpHack\\CodeExamples\\Script 10\\webscraper\\Webscraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcherri\\.nuget\\packages\\htmlagilitypack\\1.11.48\\htmlagilitypack.1.11.48.nupkg.sha512"
+  ],
+  "logs": []
+}

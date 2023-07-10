@@ -1,0 +1,15 @@
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\BruteForceEnhanced.csproj.AssemblyReference.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\BruteForceEnhanced.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\BruteForceEnhanced.AssemblyInfoInputs.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\BruteForceEnhanced.AssemblyInfo.cs
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\BruteForceEnhanced.csproj.CoreCompileInputs.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\bin\Debug\net7.0\BruteForceEnhanced.exe
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\bin\Debug\net7.0\BruteForceEnhanced.deps.json
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\bin\Debug\net7.0\BruteForceEnhanced.runtimeconfig.json
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\bin\Debug\net7.0\BruteForceEnhanced.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\bin\Debug\net7.0\BruteForceEnhanced.pdb
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\BruteForceEnhanced.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\refint\BruteForceEnhanced.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\BruteForceEnhanced.pdb
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\BruteForceEnhanced.genruntimeconfig.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 7\BruteForceEnhanced\obj\Debug\net7.0\ref\BruteForceEnhanced.dll

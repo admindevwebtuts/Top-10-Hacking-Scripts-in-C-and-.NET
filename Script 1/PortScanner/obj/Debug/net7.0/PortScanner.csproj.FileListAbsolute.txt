@@ -1,0 +1,15 @@
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\bin\Debug\net7.0\PortScanner.exe
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\bin\Debug\net7.0\PortScanner.deps.json
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\bin\Debug\net7.0\PortScanner.runtimeconfig.json
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\bin\Debug\net7.0\PortScanner.dll
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\bin\Debug\net7.0\PortScanner.pdb
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\PortScanner.csproj.AssemblyReference.cache
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\PortScanner.GeneratedMSBuildEditorConfig.editorconfig
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\PortScanner.AssemblyInfoInputs.cache
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\PortScanner.AssemblyInfo.cs
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\PortScanner.csproj.CoreCompileInputs.cache
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\PortScanner.dll
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\refint\PortScanner.dll
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\PortScanner.pdb
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\PortScanner.genruntimeconfig.cache
+g:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 1\PortScanner\obj\Debug\net7.0\ref\PortScanner.dll

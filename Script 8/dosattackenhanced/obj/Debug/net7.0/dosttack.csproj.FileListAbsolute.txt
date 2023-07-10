@@ -1,0 +1,15 @@
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\bin\Debug\net7.0\dosttack.exe
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\bin\Debug\net7.0\dosttack.deps.json
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\bin\Debug\net7.0\dosttack.runtimeconfig.json
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\bin\Debug\net7.0\dosttack.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\bin\Debug\net7.0\dosttack.pdb
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\dosttack.csproj.AssemblyReference.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\dosttack.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\dosttack.AssemblyInfoInputs.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\dosttack.AssemblyInfo.cs
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\dosttack.csproj.CoreCompileInputs.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\dosttack.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\refint\dosttack.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\dosttack.pdb
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\dosttack.genruntimeconfig.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\Script 8\dosattack\obj\Debug\net7.0\ref\dosttack.dll

@@ -1,0 +1,30 @@
+C:\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+C:\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+G:\My Drive\Books\Devwebtuts\CsharpHack\CodeExamples\C# First Program\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
